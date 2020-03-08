@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd1849b9-223c-4162-bb22-5b45499452e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/porn.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Bikes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bikes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bikes-web/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/bikes-web/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bikes-web/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bikes-web/src/app/app.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +26,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -66,13 +70,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="initialised web" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583674392576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583674392576" />
     <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1583659564480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583659564480" />
+    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1583674329434">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583674329434" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1583665048721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583665048721" />
     <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583659588461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583659588461" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583664817612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583664817612" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583671715812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583671715812" />
   </component>
 </project>
